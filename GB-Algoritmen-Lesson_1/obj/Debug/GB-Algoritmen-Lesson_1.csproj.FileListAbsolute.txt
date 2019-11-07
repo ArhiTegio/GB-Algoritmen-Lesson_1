@@ -1,0 +1,8 @@
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\bin\Debug\GB-Algoritmen-Lesson_1.exe.config
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\bin\Debug\GB-Algoritmen-Lesson_1.exe
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\bin\Debug\GB-Algoritmen-Lesson_1.pdb
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\bin\Debug\LibraryFastDecisions.dll
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\obj\Debug\GB-Algoritmen-Lesson_1.csprojAssemblyReference.cache
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\obj\Debug\GB-Algoritmen-Lesson_1.csproj.CopyComplete
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\obj\Debug\GB-Algoritmen-Lesson_1.exe
+C:\Программирование\GB-Algoritmen-Lesson_1\GB-Algoritmen-Lesson_1\obj\Debug\GB-Algoritmen-Lesson_1.pdb
